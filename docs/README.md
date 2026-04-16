@@ -1,6 +1,6 @@
-# Sahay - Pro Bono Legal Assistance Platform
+# NayayaAI 1.0 - Pro Bono Legal Assistance Platform
 
-Sahay (सहाय) is a platform connecting pro bono lawyers with clients in need of legal assistance across India. The platform facilitates case matching and management while providing a bilingual interface in Hindi and English.
+This is a platform connecting pro bono lawyers with clients in need of legal assistance across India. The platform facilitates case matching and management while providing a bilingual interface in Hindi and English.
 
 ## Table of Contents
 1. [Architecture Overview](#architecture-overview)
