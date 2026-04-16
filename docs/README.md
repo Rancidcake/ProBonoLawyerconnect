@@ -60,6 +60,8 @@ src/
 - Hindi-English bilingual interface
 - Culturally appropriate design
 - Region-specific case types
+## Sneek Peek:
+<img width="282" height="179" alt="image" src="https://github.com/user-attachments/assets/3b81956d-adb4-4061-a7af-6c603c332192" />
 
 ## Component Documentation
 
